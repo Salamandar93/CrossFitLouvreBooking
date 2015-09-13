@@ -17,7 +17,6 @@ public class HomeActivity extends Activity {
     private Spinner mScheduleSpinner;
     public static final String USER = "USER";
 
-    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -1,0 +1,11 @@
+<resources>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="username_label">Username:</string>
+    <string name="username_input_hint">Please enter your username</string>
+    <string name="password_label">Password:</string>
+    <string name="password_hint">Please enter your password</string>
+    <string name="confirmation_label">Confirm Password:</string>
+    <string name="confirmation_hint">Please confirm your password</string>
+    <string name="submit">Submit</string>
+</resources>
